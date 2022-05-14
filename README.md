@@ -21,8 +21,10 @@
   
   </br>
   
-  <img src="https://img.shields.io/badge/the_money-01.02.22-5965e0?style=for-the-badge&labelColor=5965e0">
+  <img src="https://img.shields.io/badge/FeedGet-14.05.22-5965e0?style=for-the-badge&labelColor=5965e0">
+
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Anderson-Andre-P/FeedGet?style=for-the-badge&label=last%20commit:&labelColor=5965e0&color=5965e0">
+
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5965e0&color=5965e0">
   <br />
 
