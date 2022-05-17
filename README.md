@@ -1,11 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./src/assets/Logo.svg" alt="The Money" />
-
-&#xa0;
-
-  <!-- <a href="https://podcastrnext.netlify.app">Demo</a> -->
-</div>
-
 <!-- <h1 align="center">Podcastr</h1> -->
 <p align="center">
 
